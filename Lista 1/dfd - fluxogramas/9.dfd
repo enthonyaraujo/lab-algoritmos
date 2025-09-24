@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+"Digite um simbolo especial: "
+5
+1
+7
+simbolo
+4
+1
+20
+"Digite um número: "
+5
+1
+6
+numero
+4
+1
+20
+"Digite uma letra: "
+5
+1
+5
+letra
+4
+1
+38
+"Sua senha é : ", simbolo,numero,letra
+1

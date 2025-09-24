@@ -1,0 +1,1 @@
+Utilize o FreeDFD para criar e executar algoritmos através de fluxogramas. Este software funciona como um editor e interpretador, permitindo desenvolver desde lógicas simples até algoritmos complexos. É compatível com Windows e pode ser executado no Linux através do Wine.
